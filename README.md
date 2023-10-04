@@ -37,5 +37,3 @@ The backend uses the MVC pattern where the components are described as follows:
 
 ### Frontend Structure
 The frontend is the standard configuration created by ``create-react-app``. The project is structured by **grouping features**
-
-testing git change
