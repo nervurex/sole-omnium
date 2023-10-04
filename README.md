@@ -1,7 +1,7 @@
 # Containerized PERN Stack Template
-A minimalist and opinionated skeleton project for a React/Express/PostgreSQL app. 
+A minimalist and opinionated skeleton project for a React/Express/PostgreSQL app.
 
-Designed as a general purpose starting point for rapidly developing full stack projects. 
+Designed as a general purpose starting point for rapidly developing full stack projects.
 
 Containerized for consistent development environments and easy deployment.
 
@@ -11,7 +11,7 @@ The backend can be launched by running in ``/``:
 ```bash
 $ docker-compose -f docker-compose-dev.yml up
 ```
-This runs the backend server on http://localhost:5000. 
+This runs the backend server on http://localhost:5000.
 
 ### Development - Frontend
 The frontend can be launched by running in ``/frontend``:
@@ -37,3 +37,5 @@ The backend uses the MVC pattern where the components are described as follows:
 
 ### Frontend Structure
 The frontend is the standard configuration created by ``create-react-app``. The project is structured by **grouping features**
+
+testing git change
